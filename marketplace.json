@@ -1,0 +1,11 @@
+{
+    "sources": [
+        {
+            "provider": "github",
+            "repo": "camunda/connectors",
+            "ref": "8.9.6",
+            "path": "connectors",
+            "include": ["**/element-templates/*.json"]
+        }
+    ]
+}
