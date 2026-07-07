@@ -3,7 +3,7 @@
         {
             "provider": "github",
             "repo": "camunda/connectors",
-            "ref": "8.9.6",
+            "ref": "8.7.22",
             "path": "connectors",
             "include": ["**/element-templates/*.json"]
         }
